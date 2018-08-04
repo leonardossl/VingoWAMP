@@ -1,6 +1,7 @@
 Inglish
 ## VingoWAMP
 A nice and powerful WAMP stack for development lovers and artisans!
+
 The great goal is to build something useful using idle skills. However, this project is going to strengthen the know-how of the team, which is already of great value.
 
 #In recruitment phase of the team
