@@ -1,3 +1,5 @@
+Send me a message: vingowamp@gmail.com
+
 Inglish
 # VingoWAMP
 A nice and powerful WAMP stack for development lovers and artisans!
