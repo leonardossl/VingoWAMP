@@ -1,8 +1,9 @@
 Send me a message: vingowamp@gmail.com
 
-Inglish
-# VingoWAMP
+English
+# VingoWANMMP Changing to DEVCruiser e PRODCruiser
 A nice and powerful WAMP stack for development lovers and artisans!
+Changing to: "The only one that teaches you how to make!"
 
 The great goal is to build something useful using idle skills. However, this project is going to strengthen the know-how of the team, which is already of great value.
 
