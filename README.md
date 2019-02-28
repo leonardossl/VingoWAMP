@@ -1,7 +1,7 @@
 Send me a message: vingowamp@gmail.com
 
 English
-# VingoWANMMP Changing to DEVCruiser e PRODCruiser
+# VingoWANMMP Changing to DEVCruiser and PRODCruiser
 A nice and powerful WAMP stack for development lovers and artisans!
 Changing to: "The only one that teaches you how to make!"
 
